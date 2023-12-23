@@ -84,10 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/workanhnguyen/workanhnguyen/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
